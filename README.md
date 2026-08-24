@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Aditya Kumar Singh 👋
 
-<!--
-**adityakumarsingh1682006-debug/adityakumarsingh1682006-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Student | Aspiring Developer | Hackathon Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building innovative projects using technology and AI. Currently exploring Python, Computer Vision, AI tools and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Student passionate about technology and innovation
+- 🚀 Interested in startups, AI and problem solving
+- 🏆 Exploring hackathons and building real-world projects
+- 🧠 Currently learning Python, OpenCV and MediaPipe
+- 💻 Building projects and improving my development skills
+
+---
+
+## 🚀 Featured Project
+
+### 📡 AirShare
+
+A gesture-controlled wireless file sharing prototype using computer vision.
+
+AirShare allows users to interact with the system using hand gestures and transfer files wirelessly between devices.
+
+**Features:**
+- ✋ Real-time hand gesture detection
+- 📷 Computer vision using OpenCV
+- 🧠 Hand tracking with MediaPipe
+- 📱 Wireless file receiving
+- 🌐 Local network communication
+- ⚡ Functional prototype
+
+**Tech Stack:**
+
+Python • OpenCV • MediaPipe • Flask • HTML • CSS
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming & Development
+
+- Python
+- HTML
+- CSS
+- OpenCV
+- MediaPipe
+- Flask
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Figma
+- Framer
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Python
+Computer Vision
+OpenCV
+MediaPipe
+AI Development
+Web Development
