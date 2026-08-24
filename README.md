@@ -1,29 +1,35 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Computer Science Student | 💻 Aspiring Developer | 🤖 Computer Vision Explorer
-</h3>
+# Hi 👋, I'm Aditya Kumar Singh
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityakumarsingh1682006-debug&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+### 🚀 B.Com Student | 💡 Tech Explorer | 🛠️ Building Projects & Learning by Doing
+
+<p>
+  Exploring technology, hackathons, computer vision and AI through real projects.
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=adityakumarsingh1682006-debug&label=Profile%20Views&color=blueviolet&style=flat" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 About Me
 
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
-### 🚀 Who Am I?
+### 🚀 My Journey
 
-- 🎓 Computer Science student
-- 💻 Interested in **Technology & Software Development**
-- 🤖 Currently exploring **Python, Computer Vision & AI**
-- 🌱 Learning **OpenCV and MediaPipe**
-- 🎯 Building projects and participating in hackathons
-- 🚀 Working on turning ideas into real prototypes
+- 🎓 Currently pursuing **B.Com**
+- 💻 Exploring technology alongside my academic journey
+- 🤖 Learning **Python, Computer Vision and AI**
+- 🏆 Interested in **Hackathons and building real projects**
+- 🌱 Currently exploring **OpenCV and MediaPipe**
+- 🎨 Interested in **UI/UX and digital product design**
+- 🚀 Learning by building projects instead of just watching tutorials
 
 </td>
 
@@ -37,16 +43,20 @@ AirShare
 🤖 **Currently Learning**  
 Python & Computer Vision
 
-🧠 **Technologies**  
-OpenCV • MediaPipe • Flask
+👁️ **Exploring**  
+OpenCV • MediaPipe
 
-🎨 **Design Tools**  
+🎨 **Design**  
 Figma • Framer
 
-🏆 **Goal**  
-Build impactful tech projects
+🏆 **Interest**  
+Hackathons & Startups
+
+🎯 **Goal**  
+Build impactful projects
 
 </td>
+
 </tr>
 </table>
 
@@ -64,27 +74,37 @@ Build impactful tech projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎯 What It Does
+### 🎯 What Is AirShare?
 
-AirShare is an experimental prototype that explores **gesture-based control for wireless file sharing**.
+AirShare is a functional prototype that explores a different way of controlling wireless file sharing using hand gestures.
 
-Using computer vision, the system detects hand gestures and performs actions based on the recognized gesture.
+The project uses computer vision to detect gestures through a webcam and trigger actions based on the recognized gesture.
+
+The receiver device connects through the same local Wi-Fi network and receives the transferred files.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Tech Behind It
+### 🧠 Technologies Used
 
-🐍 Python  
-👁️ OpenCV  
-✋ MediaPipe  
-🌐 Flask  
-📱 Local Network Communication
+🐍 **Python**
+
+👁️ **OpenCV**
+
+✋ **MediaPipe**
+
+🌐 **Flask**
+
+📡 **Local Network Communication**
+
+📱 **Wireless File Transfer**
 
 </td>
+
 </tr>
 </table>
 
@@ -93,9 +113,12 @@ Using computer vision, the system detects hand gestures and performs actions bas
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=for-the-badge&logo=google&logoColor=white)
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -104,80 +127,68 @@ Using computer vision, the system detects hand gestures and performs actions bas
 # 🛠️ Skills & Technologies
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 💻 Programming
+## 💻 Programming & Web
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,html,css" />
 
 </p>
 
-### 👁️ Computer Vision
+<br>
 
-<p>
+### Currently Improving
 
-<img src="https://skillicons.dev/icons?i=opencv" />
-
-</p>
+- Python
+- HTML
+- CSS
+- Problem Solving
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎨 Design
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=figma" />
-
-</p>
-
-### 🛠️ Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Stats
+## 🎨 Design & Tools
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityakumarsingh1682006-debug&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumarsingh1682006-debug&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 
 </p>
 
 <br>
 
-<p align="center">
+### Tools I Explore
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumarsingh1682006-debug&layout=compact&theme=tokyonight&hide_border=true" />
+- Figma
+- Framer
+- VS Code
+- Git & GitHub
 
-</p>
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🌱 Currently Learning
 
 <table>
+
 <tr>
+
 <td align="center" width="33%">
 
 ## 🐍 Python
 
-Building a stronger foundation in programming and problem solving.
+Building a stronger foundation in Python and programming.
 
 </td>
 
@@ -185,7 +196,7 @@ Building a stronger foundation in programming and problem solving.
 
 ## 👁️ Computer Vision
 
-Exploring OpenCV and MediaPipe for gesture recognition.
+Exploring OpenCV and MediaPipe for gesture recognition and interactive projects.
 
 </td>
 
@@ -193,24 +204,107 @@ Exploring OpenCV and MediaPipe for gesture recognition.
 
 ## 🤖 AI
 
-Learning how AI can be used in practical applications and projects.
+Learning how AI and computer vision can be used in practical projects.
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-# 🎯 My Focus
+# 📊 GitHub Stats
 
 <div align="center">
 
-🧠 **Learn → Build → Improve → Repeat**
+<img src="https://github-readme-stats.vercel.app/api?username=adityakumarsingh1682006-debug&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <br><br>
 
-I believe the best way to learn technology is by  
-**building real projects and improving them step by step.**
+<img src="https://streak-stats.demolab.com?user=adityakumarsingh1682006-debug&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumarsingh1682006-debug&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+</div>
+
+---
+
+# 🎯 What I'm Working Towards
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+## 🛠️ Build
+
+Turning ideas into functional prototypes and real projects.
+
+</td>
+
+<td width="50%" align="center">
+
+## 🧠 Learn
+
+Continuously exploring new technologies and improving my skills.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+## 🏆 Compete
+
+Participating in hackathons and learning through challenges.
+
+</td>
+
+<td width="50%" align="center">
+
+## 🚀 Grow
+
+Building experience, projects and a stronger technology portfolio.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💡 My Approach
+
+<div align="center">
+
+## Learn → Build → Fail → Improve → Repeat 🚀
+
+<br>
+
+I believe the best way to learn is by actually building.
+
+Instead of waiting until I know everything, I like exploring ideas, creating prototypes and improving them step by step.
+
+</div>
+
+---
+
+# 📂 Featured Repositories
+
+<div align="center">
+
+### 📡 AirShare
+
+**Gesture-Controlled Wireless File Sharing Prototype**
+
+Python • OpenCV • MediaPipe • Flask
 
 </div>
 
@@ -218,20 +312,20 @@ I believe the best way to learn technology is by
 
 # 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/adityakumarsingh1682006-debug">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+# ⭐ Thanks for visiting!
 
-**Building. Learning. Improving. 🚀**
+### Building ideas. Learning technology. Improving every day. 🚀
 
 </div>
