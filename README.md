@@ -2,10 +2,14 @@
 
 # Hi 👋, I'm Aditya Kumar Singh
 
-### 🚀 B.Com Student | 💡 Tech Explorer | 🛠️ Building Projects & Learning by Doing
+### 🚀 Building real-world projects with AI, Computer Vision & Web Technologies
 
 <p>
-  Exploring technology, hackathons, computer vision and AI through real projects.
+  B.Com student • Hackathon builder • Technology explorer
+</p>
+
+<p>
+  I learn by turning ideas into working prototypes and continuously improving them.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=adityakumarsingh1682006-debug&label=Profile%20Views&color=blueviolet&style=flat" />
@@ -14,207 +18,177 @@
 
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
+
+I'm a B.Com student exploring technology through **hands-on projects, hackathons and experimentation**.
+
+* 🎓 Pursuing **B.Com**
+* 🤖 Building projects around **AI & Computer Vision**
+* 👁️ Working with **OpenCV & MediaPipe**
+* 🐍 Developing with **Python**
+* 🌐 Exploring **Web Development & Flask**
+* 🎨 Interested in **UI/UX, Figma & Framer**
+* 🏆 Participating in **hackathons and innovation challenges**
+* 🚀 Focused on turning ideas into functional prototypes
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="55%" valign="top">
-
-### 🚀 My Journey
-
-- 🎓 Currently pursuing **B.Com**
-- 💻 Exploring technology alongside my academic journey
-- 🤖 Learning **Python, Computer Vision and AI**
-- 🏆 Interested in **Hackathons and building real projects**
-- 🌱 Currently exploring **OpenCV and MediaPipe**
-- 🎨 Interested in **UI/UX and digital product design**
-- 🚀 Learning by building projects instead of just watching tutorials
-
-</td>
-
-<td width="45%" valign="top">
-
-### ⚡ Quick Facts
-
-🔭 **Featured Project**  
-AirShare
-
-🤖 **Currently Learning**  
-Python & Computer Vision
-
-👁️ **Exploring**  
-OpenCV • MediaPipe
-
-🎨 **Design**  
-Figma • Framer
-
-🏆 **Interest**  
-Hackathons & Startups
-
-🎯 **Goal**  
-Build impactful projects
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🚀 Featured Project
-
-<div align="center">
+<td width="50%" valign="top">
 
 ## 📡 AirShare
 
-### Gesture-Controlled Wireless File Sharing Prototype
+### Gesture-Controlled Wireless File Sharing
 
-</div>
+A computer-vision based prototype that explores hands-free interaction with wireless file sharing.
 
-<table>
-<tr>
+**Built with**
 
-<td width="50%" valign="top">
+🐍 Python
+👁️ OpenCV
+✋ MediaPipe
+🌐 Flask
+📡 Local Network Communication
 
-### 🎯 What Is AirShare?
-
-AirShare is a functional prototype that explores a different way of controlling wireless file sharing using hand gestures.
-
-The project uses computer vision to detect gestures through a webcam and trigger actions based on the recognized gesture.
-
-The receiver device connects through the same local Wi-Fi network and receives the transferred files.
+<a href="https://github.com/adityakumarsingh1682006-debug/Airshare">
+View Project →
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Technologies Used
+## 🤖 SignBridge-AI
 
-🐍 **Python**
+### Computer Vision Based Accessibility Interface
 
-👁️ **OpenCV**
+An experimental accessibility project using **blink detection and hand gestures** to interact with digital interfaces.
 
-✋ **MediaPipe**
+**Built with**
 
-🌐 **Flask**
+🐍 Python
+👁️ OpenCV
+✋ MediaPipe
+🌐 Flask
+🖥️ Computer Interaction
 
-📡 **Local Network Communication**
+<a href="https://github.com/adityakumarsingh1682006-debug/SignBridge-AI">
+View Project →
+</a>
 
-📱 **Wireless File Transfer**
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎨 Apni Kala
+
+### Digital Platform for Skilled Home-Based Creators
+
+A social-impact platform designed to connect skilled home-based creators with opportunities to showcase and sell their work.
+
+**Focus**
+
+🌱 Social Impact
+🧵 Handcrafted Products
+💻 Digital Platform
+🚀 Entrepreneurship
+
+<a href="https://github.com/adityakumarsingh1682006-debug/apna-kala">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💡 More Projects
+
+I'm continuously experimenting with new ideas across:
+
+* 🤖 Artificial Intelligence
+* 👁️ Computer Vision
+* 🌐 Web Applications
+* 🎨 Digital Products
+* 🚀 Startup Ideas
+* 🏆 Hackathon Projects
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
-
 ---
 
-# 🛠️ Skills & Technologies
+# 🧠 Technology Stack
 
-<table>
+### Programming & Development
 
-<tr>
-
-<td width="50%" valign="top">
-
-## 💻 Programming & Web
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,flask" />
 </p>
 
-<br>
+### Computer Vision & AI
 
-### Currently Improving
+<p>
+<img src="https://skillicons.dev/icons?i=opencv" />
+</p>
 
-- Python
-- HTML
-- CSS
-- Problem Solving
+**OpenCV • MediaPipe • Computer Vision • AI experimentation**
 
-</td>
+### Design & Tools
 
-<td width="50%" valign="top">
-
-## 🎨 Design & Tools
-
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
-
 </p>
 
-<br>
-
-### Tools I Explore
-
-- Figma
-- Framer
-- VS Code
-- Git & GitHub
-
-</td>
-
-</tr>
-
-</table>
+**Figma • Framer • Git • GitHub • VS Code**
 
 ---
 
-# 🌱 Currently Learning
+# 🏆 Hackathons & Innovation
 
-<table>
+I enjoy building under constraints and turning ideas into working prototypes.
 
-<tr>
+### Areas I'm interested in
 
-<td align="center" width="33%">
-
-## 🐍 Python
-
-Building a stronger foundation in Python and programming.
-
-</td>
-
-<td align="center" width="33%">
-
-## 👁️ Computer Vision
-
-Exploring OpenCV and MediaPipe for gesture recognition and interactive projects.
-
-</td>
-
-<td align="center" width="33%">
-
-## 🤖 AI
-
-Learning how AI and computer vision can be used in practical projects.
-
-</td>
-
-</tr>
-
-</table>
+🤖 **AI & Autonomous Systems**
+👁️ **Computer Vision**
+♿ **Accessibility Technology**
+🌱 **Social Impact**
+🌐 **Web Applications**
+🚀 **Startups & Innovation**
 
 ---
 
-# 📊 GitHub Stats
+# 🔬 What I Like Building
+
+```text
+Real Problem
+     ↓
+   Idea
+     ↓
+   Prototype
+     ↓
+Technology + Experimentation
+     ↓
+   Working Product
+     ↓
+Test → Improve → Repeat
+```
+
+I believe technology becomes meaningful when it solves a problem people actually face.
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -232,85 +206,23 @@ Learning how AI and computer vision can be used in practical projects.
 
 ---
 
-# 🎯 What I'm Working Towards
+# 🎯 Current Focus
 
-<table>
+```text
+AI & Computer Vision
+        +
+Hackathon Projects
+        +
+Product Development
+        +
+Continuous Learning
+```
 
-<tr>
-
-<td width="50%" align="center">
-
-## 🛠️ Build
-
-Turning ideas into functional prototypes and real projects.
-
-</td>
-
-<td width="50%" align="center">
-
-## 🧠 Learn
-
-Continuously exploring new technologies and improving my skills.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-## 🏆 Compete
-
-Participating in hackathons and learning through challenges.
-
-</td>
-
-<td width="50%" align="center">
-
-## 🚀 Grow
-
-Building experience, projects and a stronger technology portfolio.
-
-</td>
-
-</tr>
-
-</table>
+My goal is to keep building, experimenting and turning ambitious ideas into useful technology.
 
 ---
 
-# 💡 My Approach
-
-<div align="center">
-
-## Learn → Build → Fail → Improve → Repeat 🚀
-
-<br>
-
-I believe the best way to learn is by actually building.
-
-Instead of waiting until I know everything, I like exploring ideas, creating prototypes and improving them step by step.
-
-</div>
-
----
-
-# 📂 Featured Repositories
-
-<div align="center">
-
-### 📡 AirShare
-
-**Gesture-Controlled Wireless File Sharing Prototype**
-
-Python • OpenCV • MediaPipe • Flask
-
-</div>
-
----
-
-# 🤝 Connect With Me
+# 🤝 Connect
 
 <div align="center">
 
@@ -324,8 +236,8 @@ Python • OpenCV • MediaPipe • Flask
 
 <div align="center">
 
-# ⭐ Thanks for visiting!
+### 🚀 Learn → Build → Test → Improve
 
-### Building ideas. Learning technology. Improving every day. 🚀
+**Thanks for visiting my profile!**
 
 </div>
