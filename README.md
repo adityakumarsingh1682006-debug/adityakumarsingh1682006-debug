@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071a16,100:0b3d2e&height=220&section=header&text=ADITYA%20KUMAR%20SINGH&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DIGITAL%20BUILDER%20%7C%20AI%20%7C%20COMPUTER%20VISION%20%7C%20WEB&descAlignY=60&descSize=15&descColor=8affc1" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=500&color=57F287&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+ADITYA.SYS...;%3E+DEVELOPER+PROFILE+ONLINE;%3E+AI+%7C+COMPUTER+VISION+%7C+PRODUCT+ENGINEERING;%3E+PROTOTYPING+NEXT-GENERATION+DIGITAL+SYSTEMS;%3E+STATUS%3A+OPERATIONAL" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=7CFFD4&center=true&vCenter=true&width=650&lines=SYSTEM+STATUS%3A+ONLINE;BUILDING+REAL-WORLD+TECHNOLOGY;AI+%C3%97+COMPUTER+VISION+%C3%97+WEB;IDEA+%E2%86%92+PROTOTYPE+%E2%86%92+PRODUCT;WELCOME+TO+ADITYA.SYS" />
+# ADITYA KUMAR SINGH
 
-<br>
+### `AI SYSTEMS` · `COMPUTER VISION` · `PRODUCT ENGINEERING` · `DIGITAL INNOVATION`
 
-<img src="https://komarev.com/ghpvc/?username=adityakumarsingh1682006-debug&label=PROFILE%20SCANS&color=0b3d2e&style=for-the-badge" />
+<p>
+Building intelligent interfaces, experimental systems and technology-driven products.
+</p>
 
-<br><br>
-
-<a href="https://github.com/adityakumarsingh1682006-debug">
-<img src="https://img.shields.io/badge/GITHUB-ONLINE-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-0b3d2e?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20CV%20%2F%20WEB-111111?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=adityakumarsingh1682006-debug&label=PROFILE%20VIEWS&color=57F287&style=flat-square" />
 
 </div>
 
@@ -22,91 +18,64 @@
 
 <div align="center">
 
-# ◉ ADITYA.SYS
-
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   USER                ADITYA KUMAR SINGH                     │
-│   ROLE                DIGITAL BUILDER                        │
-│   STATUS              ● ONLINE                               │
-│   LOCATION            INDIA                                  │
-│                                                              │
-│   PRIMARY SYSTEMS     AI / COMPUTER VISION / WEB             │
-│   BUILD MODE          IDEA → PROTOTYPE → PRODUCT             │
-│   CURRENT MODE        EXPERIMENT / BUILD / ITERATE            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│  ADITYA.SYS                                                         │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ● SYSTEM       OPERATIONAL          ◉ MODE       BUILD             │
+│  ◇ DOMAIN       AI / CV / WEB        ◇ LOCATION   INDIA             │
+│  ⚡ SPECIALITY   RAPID PROTOTYPING    ◇ STATUS     ACTIVE            │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
-
-### `// I BUILD THINGS THAT START AS IDEAS.`
-
-B.Com student exploring technology through **AI, computer vision, web development, hackathons and experimentation**.
-
-I learn by building — turning problems into prototypes, testing them, breaking them, and improving them.
 
 </div>
 
----
+## `01 / DIGITAL IDENTITY`
 
-# ◈ 01 // IDENTITY
+> **Technology enthusiast focused on transforming conceptual ideas into functional digital systems.**
+
+I'm a B.Com student developing across **Artificial Intelligence, Computer Vision, Web Engineering and Product Innovation**.
+
+My approach is highly experimental: identify a real-world problem, architect a solution, rapidly prototype it, validate the interaction model and continuously iterate toward a usable product.
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%">
 
-### `ABOUT.EXE`
+**CORE DISCIPLINES**
 
-🎓 **B.Com Student**
-
-🤖 Exploring **Artificial Intelligence**
-
-👁️ Building with **Computer Vision**
-
-🐍 Python developer
-
-🌐 Exploring Web Development
-
-🎨 UI/UX • Figma • Framer
-
-🏆 Hackathon & innovation builder
-
-🚀 Interested in startups and real-world products
+* Artificial Intelligence
+* Computer Vision
+* Human–Computer Interaction
+* Web Application Engineering
+* Rapid Prototyping
+* Product Development
+* UI/UX Systems
+* Digital Innovation
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%">
 
-### `CURRENTLY.EXPLORING`
+**ENGINEERING MINDSET**
 
 ```text
-AI                 ████████░░
-Computer Vision    █████████░
-Web Development    ███████░░░
-UI / UX            ██████░░░░
-Product Building   ████████░░
-Entrepreneurship   ███████░░░
+PROBLEM
+   ↓
+CONCEPTUALIZATION
+   ↓
+SYSTEM DESIGN
+   ↓
+RAPID PROTOTYPE
+   ↓
+VALIDATION
+   ↓
+ITERATION
+   ↓
+DEPLOYABLE PRODUCT
 ```
-
-<br>
-
-`LEARN`
-
-↓
-
-`BUILD`
-
-↓
-
-`TEST`
-
-↓
-
-`IMPROVE`
-
-↓
-
-`REPEAT`
 
 </td>
 </tr>
@@ -114,374 +83,344 @@ Entrepreneurship   ███████░░░
 
 ---
 
-# ◈ 02 // CURRENT BUILDS
+## `02 / ACTIVE DEVELOPMENT`
 
 <div align="center">
 
-### `ACTIVE PROJECT NODES`
-
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-## 🩺 MediKey
+### 🩺 MEDIKEY
 
-`MEDICAL IDENTITY`
+**DIGITAL HEALTH IDENTITY**
 
-QR / Digital Medical Profile
-Family Accounts
-Doctor Verification
-Healthcare Identity
+Secure medical-information architecture with QR-based identification, family accounts and healthcare-oriented identity management.
 
-**Next.js • Supabase • QR**
+`NEXT.JS` `SUPABASE` `QR`
 
 </td>
 
 <td width="33%" align="center">
 
-## 📡 AirShare
+### 👁️ SIGNBRIDGE-AI
 
-`GESTURE NETWORK`
+**ACCESSIBILITY INTERFACE**
 
-Gesture-controlled
-wireless file sharing
-using computer vision.
+Computer-vision interaction layer utilizing blink detection and hand-gesture recognition for hands-free digital control.
 
-**Python • OpenCV • MediaPipe**
+`PYTHON` `OPENCV` `MEDIAPIPE`
 
 </td>
 
 <td width="33%" align="center">
-
-## 🎨 Apni Kala
-
-`SOCIAL IMPACT`
-
-Digital platform helping
-home-based creators connect
-with opportunities.
-
-**Web • AI • Marketplace**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# ◈ 03 // PROJECT ARCHIVE
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
 
 ### 📡 AIRSHARE
 
-**Gesture-Controlled Wireless File Sharing**
+**GESTURE NETWORK**
 
-A computer-vision prototype exploring hands-free interaction and wireless file transfer.
+Experimental wireless file-sharing architecture controlled through real-time gesture recognition.
 
-**CORE SYSTEM**
-
-```text
-Python
-OpenCV
-MediaPipe
-Flask
-Local Network
-Gesture Recognition
-```
-
-<a href="https://github.com/adityakumarsingh1682006-debug/Airshare">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 SIGNBRIDGE-AI
-
-**Computer Vision Accessibility Interface**
-
-Experimental interface using blink detection and hand gestures to interact with digital systems.
-
-**CORE SYSTEM**
-
-```text
-Python
-OpenCV
-MediaPipe
-Flask
-Blink Detection
-Gesture Recognition
-```
-
-<a href="https://github.com/adityakumarsingh1682006-debug/SignBridge-AI">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎨 APNI KALA
-
-**Digital Platform for Home-Based Creators**
-
-A social-impact platform designed to help skilled creators showcase and sell their work.
-
-**CORE SYSTEM**
-
-```text
-Digital Marketplace
-Social Impact
-Creator Economy
-Product Development
-Entrepreneurship
-```
-
-<a href="https://github.com/adityakumarsingh1682006-debug/apna-kala">
-<img src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧪 EXPERIMENT LAB
-
-```text
-01  AI experiments
-02  Computer vision
-03  Accessibility
-04  Web applications
-05  Startup concepts
-06  Hackathon prototypes
-07  Digital products
-08  Interaction systems
-```
-
-> Not every experiment becomes a product.
->
-> Every product starts as an experiment.
+`PYTHON` `OPENCV` `FLASK`
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 ---
 
-# ◈ 04 // TECHNOLOGY MATRIX
+## `03 / PROJECT ARCHITECTURE`
+
+### `AIRSHARE // GESTURE-CONTROLLED FILE TRANSFER`
+
+A computer-vision driven prototype exploring **natural human-computer interaction** for wireless file transfer.
+
+**SYSTEM COMPONENTS**
+
+`Gesture Recognition` · `OpenCV` · `MediaPipe` · `Python` · `Flask` · `Local Networking`
+
+<a href="https://github.com/adityakumarsingh1682006-debug/Airshare">
+<img src="https://img.shields.io/badge/EXPLORE_SYSTEM-57F287?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+---
+
+### `SIGNBRIDGE-AI // VISION INTERACTION ENGINE`
+
+An experimental accessibility system combining **blink-state detection and gesture recognition** to create an alternative interaction layer between humans and computers.
+
+**SYSTEM COMPONENTS**
+
+`Computer Vision` · `Blink Detection` · `Gesture Recognition` · `MediaPipe` · `OpenCV` · `Flask`
+
+<a href="https://github.com/adityakumarsingh1682006-debug/SignBridge-AI">
+<img src="https://img.shields.io/badge/EXPLORE_SYSTEM-57F287?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+---
+
+### `APNI KALA // CREATOR ECONOMY PLATFORM`
+
+A digital marketplace concept designed to connect **home-based skilled creators** with opportunities to showcase and commercialize their work.
+
+**FOCUS AREAS**
+
+`Social Impact` · `Creator Economy` · `Digital Marketplace` · `Entrepreneurship` · `Product Innovation`
+
+<a href="https://github.com/adityakumarsingh1682006-debug/apna-kala">
+<img src="https://img.shields.io/badge/EXPLORE_SYSTEM-57F287?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+---
+
+## `04 / TECHNOLOGY STACK`
 
 <div align="center">
 
-### `LANGUAGES / FRAMEWORKS`
+### `ENGINEERING`
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,flask&theme=dark" />
 
-<br><br>
-
-### `AI / COMPUTER VISION`
+### `INTELLIGENT SYSTEMS`
 
 <img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
 
 <br>
 
-`OpenCV` • `MediaPipe` • `Computer Vision` • `AI Experimentation`
+`OpenCV` · `MediaPipe` · `Computer Vision` · `AI Experimentation`
 
-<br><br>
+### `PRODUCT / INFRASTRUCTURE`
 
-### `DATABASE / TOOLS`
+<img src="https://skillicons.dev/icons?i=supabase,git,github,vscode&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=supabase,git,github,vscode,figma&theme=dark" />
+### `DESIGN SYSTEMS`
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
-### `DESIGN / PRODUCT`
+<br>
 
-`Figma` • `Framer` • `UI/UX` • `Product Design`
+`UI/UX` · `Figma` · `Framer` · `Interface Architecture`
 
 </div>
 
 ---
 
-# ◈ 05 // BUILD PROTOCOL
+## `05 / ENGINEERING CAPABILITIES`
+
+<table>
+<tr>
+
+<td>
+
+### `INTELLIGENCE`
+
+🧠 AI experimentation
+👁️ Computer vision
+✋ Gesture recognition
+👀 Blink-state detection
+🧩 Human-computer interaction
+
+</td>
+
+<td>
+
+### `PRODUCT`
+
+⚙️ Rapid prototyping
+🌐 Web applications
+🎨 Interface systems
+🔬 Experimental products
+🚀 Startup concepts
+
+</td>
+
+<td>
+
+### `EXECUTION`
+
+💻 Python development
+🔗 API integration
+🗄️ Backend architecture
+🧪 Iterative testing
+🛠️ Technical debugging
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `06 / INNOVATION LOG`
 
 <div align="center">
 
 ```text
-                         ┌──────────────┐
-                         │ REAL PROBLEM │
-                         └──────┬───────┘
-                                │
-                                ▼
-                         ┌──────────────┐
-                         │     IDEA     │
-                         └──────┬───────┘
-                                │
-                                ▼
-                       ┌────────────────┐
-                       │   PROTOTYPE    │
-                       └───────┬────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ TECHNOLOGY + TESTING│
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                       ┌───────────────┐
-                       │ WORKING BUILD │
-                       └───────┬───────┘
-                               │
-                               ▼
-                         ┌───────────┐
-                         │  IMPROVE  │
-                         └─────┬─────┘
-                               │
-                               └───────────────↻
+                    ┌─────────────────┐
+                    │   HUMAN NEED    │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │   CONCEPTUAL    │
+                    │    MODEL        │
+                    └────────┬────────┘
+                             ↓
+                ┌────────────────────────┐
+                │  TECHNOLOGY SELECTION  │
+                └────────────┬───────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ RAPID PROTOTYPE │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │    VALIDATE     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │    ITERATE      │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ PRODUCT SYSTEM  │
+                    └─────────────────┘
 ```
 
 </div>
 
 ---
 
-# ◈ 06 // HACKATHON LOG
+## `07 / HACKATHON & INNOVATION`
+
+I actively explore technology through **competitive prototyping, innovation challenges and rapid product development environments**.
+
+<table>
+<tr>
+
+<td align="center">
+
+### AI
+
+Artificial Intelligence
+Intelligent Systems
+Automation
+
+</td>
+
+<td align="center">
+
+### VISION
+
+Computer Vision
+Gesture Interfaces
+Accessibility
+
+</td>
+
+<td align="center">
+
+### IMPACT
+
+Social Innovation
+Digital Inclusion
+Creator Economy
+
+</td>
+
+<td align="center">
+
+### PRODUCT
+
+Startups
+Digital Products
+Rapid Prototyping
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `08 / GITHUB TELEMETRY`
 
 <div align="center">
 
-### `INNOVATION // EXPERIMENTATION // BUILD`
+<img src="https://github-readme-stats.vercel.app/api?username=adityakumarsingh1682006-debug&show_icons=true&hide_border=true&bg_color=0D1117&title_color=57F287&text_color=C9D1D9&icon_color=57F287&include_all_commits=true" height="180"/>
 
-| SYSTEM             | DOMAIN                  | MODE            |
-| ------------------ | ----------------------- | --------------- |
-| 🧠 AI Projects     | Artificial Intelligence | `BUILDING`      |
-| 👁️ Vision Systems | Computer Vision         | `EXPERIMENTING` |
-| ♿ Accessibility    | Assistive Technology    | `EXPLORING`     |
-| 🌱 Apni Kala       | Social Impact           | `BUILDING`      |
-| 🚀 Startup Ideas   | Product Innovation      | `EXPERIMENTING` |
-| 💻 Web Apps        | Digital Products        | `BUILDING`      |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumarsingh1682006-debug&layout=compact&hide_border=true&bg_color=0D1117&title_color=57F287&text_color=C9D1D9" height="180"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=adityakumarsingh1682006-debug&hide_border=true&background=0D1117&ring=57F287&fire=57F287&currStreakLabel=57F287&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
 ---
 
-# ◈ 07 // GITHUB CORE
+## `09 / CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityakumarsingh1682006-debug&show_icons=true&hide_border=true&bg_color=050505&title_color=7CFFD4&text_color=FFFFFF&icon_color=7CFFD4&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumarsingh1682006-debug&layout=compact&hide_border=true&bg_color=050505&title_color=7CFFD4&text_color=FFFFFF" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=adityakumarsingh1682006-debug&hide_border=true&background=050505&ring=7CFFD4&fire=7CFFD4&currStreakLabel=7CFFD4&sideLabels=FFFFFF&dates=888888" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakumarsingh1682006-debug&bg_color=0D1117&color=57F287&line=57F287&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# ◈ 08 // 3D CONTRIBUTION CORE
-
-<div align="center">
-
-### `THE BUILD MATRIX`
-
-<img src="https://raw.githubusercontent.com/adityakumarsingh1682006-debug/adityakumarsingh1682006-debug/main/profile-3d-contrib/profile-night-view.svg" width="95%" />
-
-</div>
-
-> **If the 3D contribution graphic isn't showing yet, enable the `profile-3d-contrib` GitHub Action in this repository.**
-
----
-
-# ◈ 09 // SYSTEM TELEMETRY
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityakumarsingh1682006-debug&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakumarsingh1682006-debug&bg_color=050505&color=7CFFD4&line=7CFFD4&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-# ◈ 10 // CURRENT MISSION
+## `10 / CURRENT DIRECTIVE`
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│              CURRENT DIRECTIVE                   │
-│                                                  │
-│     AI + COMPUTER VISION + PRODUCT BUILDING     │
-│                                                  │
-│                 +                                │
-│                                                  │
-│             HACKATHON PROJECTS                  │
-│                                                  │
-│                 +                                │
-│                                                  │
-│             CONTINUOUS LEARNING                 │
-│                                                  │
-└──────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│                     CURRENT FOCUS                         │
+│                                                           │
+│        AI SYSTEMS      ████████████████████               │
+│        COMPUTER VISION █████████████████░░░               │
+│        PRODUCT DESIGN  ████████████████░░░░               │
+│        WEB ENGINEERING ███████████████░░░░░               │
+│        ENTREPRENEURSHIP██████████████░░░░░               │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
 
-### `THE OBJECTIVE`
+### `BUILDING THE INTERSECTION OF`
 
-Build useful technology.
-
-Learn by doing.
-
-Turn ambitious ideas into working prototypes.
-
-Keep iterating.
+**INTELLIGENCE × INTERACTION × PRODUCT**
 
 </div>
 
 ---
 
-# ◈ 11 // CONNECT
+## `11 / CONNECTION NODE`
 
 <div align="center">
 
 <a href="https://github.com/adityakumarsingh1682006-debug">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=57F287"/>
 </a>
 
 <br><br>
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│          SYSTEM STATUS : ● ONLINE            │
-│                                              │
-│       BUILD SOMETHING THAT MATTERS.          │
-│                                              │
-╰──────────────────────────────────────────────╯
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│  STATUS        ● ONLINE                                     │
+│  MODE          BUILD                                        │
+│  SYSTEM        ADITYA.SYS                                   │
+│  DIRECTIVE     CREATE • EXPERIMENT • ITERATE                │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
 ```
 
 <br>
 
-### `LEARN → BUILD → TEST → IMPROVE`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,50:071a16,100:050505&height=120&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=700&color=57F287&center=true&vCenter=true&width=600&lines=%3E+SYSTEM+OPERATIONAL;%3E+BUILDING+THE+NEXT+ITERATION;%3E+END_OF_PROFILE_" />
 
 </div>
