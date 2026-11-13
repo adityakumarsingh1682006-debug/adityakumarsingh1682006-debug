@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="232" viewBox="0 0 860 232" role="img">
+<defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#171126"/><stop offset="1" stop-color="#080611"/>
+</linearGradient>
+<linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#a855f7" stop-opacity=".75"/>
+  <stop offset=".5" stop-color="#5833a6" stop-opacity=".55"/>
+  <stop offset="1" stop-color="#7c8cff" stop-opacity=".75"/>
+</linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#7c8cff"/>
+</linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#a855f7" stop-opacity=".8"/>
+  <stop offset="1" stop-color="#7c8cff" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="859" height="231" rx="18" fill="url(#panel)" stroke="url(#border)" stroke-width="1.2"/><rect x="32" y="32" width="386" height="50" rx="12" fill="#ffffff" fill-opacity=".03" stroke="#49306f" stroke-opacity=".8"/><text x="50" y="63" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#a855f7">01</text><text x="86" y="63" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#e8eaff">Building products</text><rect x="442" y="32" width="386" height="50" rx="12" fill="#ffffff" fill-opacity=".03" stroke="#49306f" stroke-opacity=".8"/><text x="460" y="63" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#a855f7">02</text><text x="496" y="63" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#e8eaff">Exploring startups and entrepreneurship</text><rect x="32" y="96" width="386" height="50" rx="12" fill="#ffffff" fill-opacity=".03" stroke="#49306f" stroke-opacity=".8"/><text x="50" y="127" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#a855f7">03</text><text x="86" y="127" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#e8eaff">Learning new technologies</text><rect x="442" y="96" width="386" height="50" rx="12" fill="#ffffff" fill-opacity=".03" stroke="#49306f" stroke-opacity=".8"/><text x="460" y="127" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#a855f7">04</text><text x="496" y="127" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#e8eaff">Business and financial technology</text><rect x="32" y="160" width="386" height="50" rx="12" fill="#ffffff" fill-opacity=".03" stroke="#49306f" stroke-opacity=".8"/><text x="50" y="191" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#a855f7">05</text><text x="86" y="191" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#e8eaff">Participating in hackathons</text><rect x="442" y="160" width="386" height="50" rx="12" fill="#ffffff" fill-opacity=".03" stroke="#49306f" stroke-opacity=".8"/><text x="460" y="191" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="700" fill="#a855f7">06</text><text x="496" y="191" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#e8eaff">Creating meaningful real-world solutions</text>
+</svg>

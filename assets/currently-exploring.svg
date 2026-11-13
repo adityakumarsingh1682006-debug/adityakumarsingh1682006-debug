@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="150" viewBox="0 0 860 150" role="img">
+<defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#171126"/><stop offset="1" stop-color="#080611"/>
+</linearGradient>
+<linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#a855f7" stop-opacity=".75"/>
+  <stop offset=".5" stop-color="#5833a6" stop-opacity=".55"/>
+  <stop offset="1" stop-color="#7c8cff" stop-opacity=".75"/>
+</linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#7c8cff"/>
+</linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#a855f7" stop-opacity=".8"/>
+  <stop offset="1" stop-color="#7c8cff" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="859" height="149" rx="18" fill="url(#panel)" stroke="url(#border)" stroke-width="1.2"/><rect x="24" y="24" width="254" height="42" rx="21" fill="#7c8cff" fill-opacity=".10" stroke="#7c8cff" stroke-opacity=".55"/><circle cx="46" cy="45" r="4" fill="#7c8cff"/><text x="62" y="50" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e8eaff">AI / ML</text><rect x="294" y="24" width="254" height="42" rx="21" fill="#34d399" fill-opacity=".10" stroke="#34d399" stroke-opacity=".55"/><circle cx="316" cy="45" r="4" fill="#34d399"/><text x="332" y="50" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e8eaff">HealthTech</text><rect x="564" y="24" width="254" height="42" rx="21" fill="#a78bfa" fill-opacity=".10" stroke="#a78bfa" stroke-opacity=".55"/><circle cx="586" cy="45" r="4" fill="#a78bfa"/><text x="602" y="50" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e8eaff">FinTech</text><rect x="24" y="78" width="254" height="42" rx="21" fill="#7c8cff" fill-opacity=".10" stroke="#7c8cff" stroke-opacity=".55"/><circle cx="46" cy="99" r="4" fill="#7c8cff"/><text x="62" y="104" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e8eaff">Full-stack development</text><rect x="294" y="78" width="254" height="42" rx="21" fill="#34d399" fill-opacity=".10" stroke="#34d399" stroke-opacity=".55"/><circle cx="316" cy="99" r="4" fill="#34d399"/><text x="332" y="104" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e8eaff">Product development</text><rect x="564" y="78" width="254" height="42" rx="21" fill="#a78bfa" fill-opacity=".10" stroke="#a78bfa" stroke-opacity=".55"/><circle cx="586" cy="99" r="4" fill="#a78bfa"/><text x="602" y="104" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#e8eaff">Open-source projects</text>
+</svg>

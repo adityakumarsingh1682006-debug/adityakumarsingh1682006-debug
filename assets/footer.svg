@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img">
+<defs>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#171126"/><stop offset="1" stop-color="#080611"/>
+</linearGradient>
+<linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#a855f7" stop-opacity=".75"/>
+  <stop offset=".5" stop-color="#5833a6" stop-opacity=".55"/>
+  <stop offset="1" stop-color="#7c8cff" stop-opacity=".75"/>
+</linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#7c8cff"/>
+</linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#a855f7" stop-opacity=".8"/>
+  <stop offset="1" stop-color="#7c8cff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="fm1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d2f86"/><stop offset="1" stop-color="#14164a"/></linearGradient>
+<linearGradient id="fm2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14164a"/><stop offset="1" stop-color="#070820"/></linearGradient></defs>
+
+<rect width="1200" height="200" fill="#070820"/>
+<path d="M0,120 L110,84 L200,110 L320,60 L430,108 L540,80 L660,118 L780,70 L900,104 L1010,66 L1110,100 L1200,82 L1200,200 L0,200Z" fill="url(#fm1)" opacity=".9"/>
+<path d="M0,160 L160,128 L300,150 L470,120 L640,152 L820,124 L980,150 L1100,132 L1200,148 L1200,200 L0,200Z" fill="url(#fm2)"/>
+<line x1="300" y1="44" x2="900" y2="44" stroke="url(#border)" stroke-width="1.2"/>
+<text x="600" y="106" text-anchor="middle" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#e8eaff">Aditya Kumar Singh</text>
+<text x="600" y="130" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#a78bfa">University of Delhi</text>
+<text x="600" y="168" text-anchor="middle" font-family="Inter,'SF Pro Display',-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12" letter-spacing="3" fill="#8d93cc">DEVELOPER  •  BUILDER  •  ENTREPRENEUR</text>
+
+</svg>
